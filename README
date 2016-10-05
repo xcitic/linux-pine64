@@ -1,4 +1,12 @@
-        Linux kernel release 3.x <http://kernel.org/>
+  
+       BUILDING THE KERNEL FROM BSD Longsheep build
+        TODO 
+        
+     - Change defconfig in arch/arm64/configs/sun50iw1p1smp_linux_defconfig
+       
+
+  
+  Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
